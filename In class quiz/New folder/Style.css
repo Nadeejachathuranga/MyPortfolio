@@ -1,0 +1,145 @@
+.main{
+width: 1348px;
+height: 621px;
+
+position: relative;
+}
+.first{
+    width: 50%;
+    height: 50%;
+   background-color: red;
+    position: absolute;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+     border-radius: 100px;
+     background-color: aliceblue;
+     position: absolute;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        margin: auto;
+
+}
+.Squ{
+    width: 90px;
+    height: 90px;  
+   
+    background-color: red;
+    position: absolute;
+       top: 0px;
+       bottom: 0px;
+       left: 0px;
+       right: 0px;
+       margin: auto;
+}
+   
+.sec{
+    width: 50%;
+    height: 50%;
+   background-color: green;
+   position: absolute;
+   right: 0px;
+}
+.third{
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.fouth{
+    width: 50%;
+    height: 50%;
+   background-color: rgb(243, 20, 57); 
+   position: absolute;
+   right: 0px;
+   bottom: 0px;
+}   
+
+.centor{
+    width: 150px;
+    height: 150px; 
+    background-color: aliceblue;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;  
+}
+.cenCir{
+    width: 100px;
+    height: 100px;
+     border-radius: 100px;
+     background-color: red;
+     position: absolute;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        margin: auto;
+}
+.halfCircle{
+    background-color: white;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    border-top-left-radius: 100px;
+    bottom: 0px;
+    right: 0px;
+}
+.halfCircle2{
+    background-color: white;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    border-top-right-radius: 100px;
+    bottom: 0px;
+    left: 0px;
+}
+.halfCircle3{
+    background-color: white;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    border-bottom-left-radius:  100px;
+    top: 0px;
+    right: 0px;
+}
+.halfCircle4{
+    background-color: white;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    border-bottom-right-radius:  100px;
+    top: 0px;
+    left: 0px;
+}
+.halfCircle5{
+    background-color: white;
+    width: 10%;
+    height: 12.5%;
+    position: absolute;
+    border-bottom-right-radius: 60px;
+    border-bottom-left-radius:  60px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+.halfCircle6{
+    background-color: white;
+    width: 10%;
+    height: 12.5%;
+    position: absolute;
+    border-top-right-radius: 60px;
+    border-top-left-radius:  60px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
