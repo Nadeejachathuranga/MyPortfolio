@@ -1,0 +1,126 @@
+.main{
+    width: 1348px;
+    height: 621px;
+    
+    position: relative;
+    }
+    .hlink ul{
+        list-style: none;
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        
+    }
+    .hlink li{
+        margin: 10px;
+    display: inline-block;
+    padding: 3px 5px 3px 5px;
+    
+    }
+    .navigate img{
+        width: 200px;
+        height: 75px;
+    }
+    .navigate{
+        position: relative;
+       
+    }
+   
+.rightSide{
+    height: 600px;
+    width: 20%;
+   margin-bottom: 0px;
+    background: purple;
+}
+.rightSide ul{
+    margin: 10px;
+    list-style: none;
+    display: inline-block;
+    padding: 3px 5px 3px 5px;
+}
+.rightSide li{
+    padding: 5px;
+    color: aliceblue;
+   
+}
+
+.first {
+   
+border: solid;
+width: 25%;
+height: 40%;
+position: absolute;
+right: 0px;
+top: 80px;
+}
+.first img{
+    width: 100%;
+height: 100%;
+}
+
+.Second {
+    border: solid;
+    width: 25%;
+    height: 40%;
+    position: absolute;
+    left: 20%;
+    top: 80px;
+    }
+    .Second img{
+        width: 100%;
+    height: 100%;
+    }
+    
+    .Third {
+        border: solid;
+        width: 25%;
+        height: 40%;
+        position: absolute;
+        left: 47%;
+        top: 80px;
+        }
+        .Third img{
+            width: 100%;
+        height: 100%;
+        }
+        
+ 
+  .leftSide p{
+    position: absolute;
+    left: 25%;
+    top: 60%;
+  }
+  .leftSide p1{
+    position: absolute;
+    left: 25%;
+    top: 70%;
+  }
+  .leftSide p2{
+    position: absolute;
+    left: 25%;
+    top: 80%;
+  }
+  .leftSide p3{
+    position: absolute;
+    left: 25%;
+    top: 90%;
+  }
+  .leftSide p4{
+    position: absolute;
+    left: 25%;
+    top: 100%;
+  }
+
+  .downBar{
+    margin-top: 0px;
+    background: gray;
+    width: 1348px;
+    height: 50px;
+
+  }
+  
+  .downBar h3{
+    margin-top: 0px;
+    margin-left: 45%;
+
+  }
