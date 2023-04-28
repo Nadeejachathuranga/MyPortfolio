@@ -45,7 +45,6 @@ section>div:nth-child(7){
  background: url(assest/stay-home.png);
  background-size: cover;}
 section>div:nth-child(8){
-   grid-row: 2/4;
     background: url(assest/search.png);
     background-size: cover;}
 section>div:nth-child(9){
